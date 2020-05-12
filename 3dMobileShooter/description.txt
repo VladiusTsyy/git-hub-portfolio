@@ -1,0 +1,5 @@
+Мобильный 3D шутер с системой инвентаря, сохранением binary formatter C# и автонаведением  рассчитанным через матрицу вращения и передачей этого quaternion в Rigidbody.rotation игрока(CodeExample/aimController)
+
+
+https://youtu.be/JWnJoy0T8gw
+

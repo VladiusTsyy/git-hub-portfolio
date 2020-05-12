@@ -1,0 +1,4 @@
+2D квест - платформер  с ипользованием 2D Rigidbody на игровых объектах. 
+
+
+https://youtu.be/m36PZBedZeg
